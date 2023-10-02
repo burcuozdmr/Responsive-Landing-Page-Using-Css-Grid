@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Appearance of the css grid challenge]([screenshot/appearance-fullsize.jpg])
+![Appearance of the css grid challenge](grid-exercise/screenshot/appearance-fullsize.jpg)
 
 ### Links
 
